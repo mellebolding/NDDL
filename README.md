@@ -1,2 +1,2 @@
-# NDDL
-Neural Dynamics and Deep Learning course at UvA (nov24). SNN energy model.
+# Loss function tweeking on SNN energy model
+Part of the MSc course 'Neural Dynamics and Deep Learning' at UvA. SNN energy model.
